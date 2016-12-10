@@ -1,0 +1,14 @@
+{
+  "name": "hyperterm-chromodynamics-theme",
+  "version": "0.1.0",
+  "description": "a chromodynamics theme for Hyperterm",
+  "license": "MIT",
+  "repository": "zoido/hyperterm-chromodynamics-theme",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
