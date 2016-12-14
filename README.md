@@ -1,6 +1,7 @@
 # hyperterm-chromodynamics-theme
 Theme for Hyper.is based on https://github.com/MagicStack/Chromodynamics
 
+[![npm](https://img.shields.io/npm/v/hyperterm-chromodynamics-theme.svg?style=flat-square)](https://www.npmjs.com/package/hyperterm-chromodynamics-theme)
 ## Preview
 
 ![preview](preview.png)
